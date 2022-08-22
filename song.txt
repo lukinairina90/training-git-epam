@@ -2,7 +2,11 @@ A child is born
 A girl like me
 All of the lights (feat. Kanye West, Kid Cudi, Alicia Keys & Elton John)
 American Oxygen
+
 test git fetch
+git reset --soft HEAD~1
+git reset --mixed HEAD^
+git reset --hard HEAD^
 
 
 All of the lights (feat. Kanye West, Kid Cudi, Alicia Keys & Elton John)
