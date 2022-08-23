@@ -1,0 +1,20 @@
+Download, install, configure
+
+DOWNLOAD AND INSTALL
+1. Download binary here: http://git-scm.com/downloads
+2. Follow the steps using the default options
+
+CONFIGURE
+1. Generate SSH key pair:
+    ssh-keygen -t -rsa -C irinalukina90@gmail.com
+
+1.1 or token key(better):
+    https://github.com/settings/tokens
+
+2. Send public key to repository owner or upload to your profile
+3. Configure username and email:
+    git config --global user.name "Iryna Lukina"
+    git config --global user.email "irinalukina90@gmail.com"
+
+git remote -v = Список ваших удаленных подключений к другим репозиториям, включает URL-адрес каждого подключения.
+
