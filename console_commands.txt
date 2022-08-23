@@ -1,0 +1,3 @@
+КОНСОЛЬНЫЕ КОМАНДЫ
+    pwd - где я сейчас нахожусь(путь) (/Users/irynalukina/GolandProjects/training-git-epam)
+    cd /Users/irynalukina/GolandProjects/training-git-epam - переход в нужную папку

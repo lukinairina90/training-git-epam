@@ -1,0 +1,6 @@
+brew install git-gui
+или
+https://git-scm.com/download/mac
+
+Вызов из терминала
+git gui&
